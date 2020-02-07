@@ -1,2 +1,2 @@
 # GitTest
-Testing av git
+Testing av git for Erik Haug
